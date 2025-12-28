@@ -28,5 +28,5 @@ redirect_from:
 * Presented my paper titled "Evaluation of Model-agnostic explanation techniques on healthcare dataset" at [HealthInf conference](https://healthinf.scitevents.org/?y=2025) 2025. 
 
 * Visited [KU leuven Belgium](https://www.kuleuven.be/kuleuven), and presented my research during a research visit aimed at building connections and strengthening collaboration.
-\item Presented my Poster at [BNAIC-2025](https://bnaic2025.unamur.be/programme.html) conference.
-\item Presented my work on " Inverse Reinforcement learning for Dynamic  treatment Regime" at [PersOn](https://www.personalisedcareinoncology.nl/) project consortium meeting at Nijmegen,  Netherlands. 
+* Presented my Poster at [BNAIC-2025](https://bnaic2025.unamur.be/programme.html) conference.
+* Presented my work on " Inverse Reinforcement learning for Dynamic  treatment Regime" at [PersOn](https://www.personalisedcareinoncology.nl/) project consortium meeting at Nijmegen,  Netherlands. 
