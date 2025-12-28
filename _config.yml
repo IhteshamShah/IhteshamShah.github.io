@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Syed Ihtesham Shah"
 description              : &description "personal description"
-url                      : "//ilievski.info" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ihteshamshah.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IhteshamShah/IhteshamShah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Syed Ihtesham Shah"
-  avatar           : "Filip_profile.jpg"
-  bio              : "Assistant Professor (Sr.) at Vrije Universiteit Amsterdam"
+  avatar           : "profile.jpg"
+  bio              : "Postdoc at Vrije Universiteit Amsterdam"
   location         : "Amsterdam, The Netherlands"
   employer         : 
-  googlescholar    : "https://scholar.google.nl/citations?user=4ZScBc0AAAAJ"
-  email            : "f.ilievski@vu.nl"
+  googlescholar    : "https://scholar.google.com/citations?user=5CUEp38AAAAJ&hl=en"
+  email            : "ihtesham.shah90@gmail.com"
   uri              : #"https://www.slideshare.net/FilipIlievski1/"
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "filievski"
+  github           : "IhteshamShah"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "filipilievski91/"
+  linkedin         : "in/ihtesham-shah-b0758765/"
   orcid            : 
   pinterest        :
   soundcloud       :
