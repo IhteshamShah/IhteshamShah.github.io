@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Course Instructor
+## Course Instructor/Visting Teacher
 
 [**AI in Health**](https://research.vu.nl/en/courses/ai-in-health-5/), Spring 2025, Spring 2026\
 Vrije Universiteit Amsterdam\
