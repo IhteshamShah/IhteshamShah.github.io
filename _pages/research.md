@@ -43,7 +43,7 @@ My research combines machine learning, sequential decision-making, and clinical 
   </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/HPC.png">
+      <img style="width:600px" src="../images/HCP.png">
   </td>
   <td style="border: none">
   <b>Uncertanity Quantification:</b> Conformal prediction (CP) is a powerful framework for quantifying uncertainty in machine learning models, offering reliable predictions with finite-sample coverage guarantees. When applied to classification, CP produces a prediction set of possible labels that is guaranteed to contain the true label with high probability, regardless of the underlying classifier. However, standard CP treats classes as flat and unstructured, ignoring domain knowledge such as semantic relationships or hierarchical structure among class labels. This paper presents hierarchical conformal classification (HCC), an extension of CP that incorporates class hierarchies into both the structure and semantics of prediction sets. We formulate HCC as a constrained optimization problem whose solutions yield prediction sets composed of nodes at different levels of the hierarchy, while maintaining coverage guarantees.
