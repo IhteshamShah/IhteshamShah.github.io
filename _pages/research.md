@@ -61,4 +61,4 @@ My research combines machine learning, sequential decision-making, and clinical 
 
 
 
-See [my recent publications](https://www.ilievski.info/publications/) for more information.
+See [my recent publications](https://www.researchgate.net/profile/Syed-Ihtesham-Hussain-Shah) for more information.
