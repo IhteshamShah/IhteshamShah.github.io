@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Syed Ihtesham Shah"
 description              : &description "personal description"
-url                      : "https://ihteshamshah.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "//ihtesham.info" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IhteshamShah/IhteshamShah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=5CUEp38AAAAJ&hl=en"
   email            : "ihtesham.shah90@gmail.com"
-  uri              : #"https://www.slideshare.net/FilipIlievski1/"
+  uri              : #""http://ihteshamshah.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
