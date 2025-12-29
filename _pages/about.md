@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Syed Ihtesham Shah"
-excerpt: "Syed Ihtesham Shah"
+#title: "Syed Ihtesham Shah"
+#excerpt: "Syed Ihtesham Shah"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
   <div style="flex:1;">
     <h1 style="margin-top:0">Syed Ihtesham Shah</h1>
-    <p style="margin:0.25rem 0 1rem 0; color:#666;">Postdoc — Vrije Universiteit Amsterdam. Interpretable & Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning.</p>
+    <p style="margin:0.25rem 0 1rem 0; color:#666;">Postdoc at Vrije Universiteit Amsterdam. Interpretable & Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning.</p>
 
     <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
       <li><strong>Postdoc</strong>, <a href="https://vu.nl/en/about-vu/more-about/artificial-intelligence-computer-science">Vrije Universiteit Amsterdam</a> (2023–present)</li>
@@ -18,13 +18,16 @@ redirect_from:
       <li><strong>Researcher</strong>, <a href="https://www.icar.cnr.it/">Institute for HPC and networking (ICAR) CNR, Italy</a> (2022–2023)</li>
       <li><strong>Visiting Researcher</strong>, <a href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a> (2021–2022)</li>
       <li><strong>Junior Lecturer</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2015–2019)</li>
+    </ul>
+
+    </ul>
       <li><strong>PhD</strong>, <a href="https://www.uniparthenope.it/">University of Naples</a> (2019–2023)</li>
       <li><strong>MSc</strong>, <a href="https://www.iiu.edu.pk/">IIU Islamabad</a> (2016–2018)</li>
       <li><strong>BSc</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2010–2014)</li>
     </ul>
 
     <p style="margin-top:1rem;"><a href="https://IhteshamShah.info/research">Areas:</a> Interpretable AI, Responsible AI, Inverse reinforcement Learning, XAI, Multimodel Learning</p>
-  </div>
+  
 </div>
 
 <div>
@@ -41,5 +44,3 @@ redirect_from:
     <p>Presented work on "Inverse Reinforcement learning for Dynamic treatment Regime" at the <a href="https://www.personalisedcareinoncology.nl/">PersOn</a> consortium meeting in Nijmegen.</p>
   </div>
 </div>
-
-</section>
