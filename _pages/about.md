@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<section style="display:grid; grid-template-columns:1fr; gap:2rem;">
-
-<div style="display:flex; gap:2rem; align-items:start;">
-  <div style="flex:0 0 220px;">
-    <img src="/images/profile.jpg" alt="Profile" style="width:100%; border-radius:8px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
-  </div>
-
   <div style="flex:1;">
     <h1 style="margin-top:0">Syed Ihtesham Shah</h1>
     <p style="margin:0.25rem 0 1rem 0; color:#666;">Postdoc — Vrije Universiteit Amsterdam. Interpretable & Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning.</p>
