@@ -22,7 +22,7 @@ redirect_from:
   </div>
 
   <div style="flex:1;">
-    <ul style="padding-left:1.25rem; margin:0.25rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
+    <ul style="padding-left:1.25rem; margin:0.5rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
       <li><strong>PhD</strong>, <a href="https://www.uniparthenope.it/">University of Naples</a> (2019–2023)</li>
       <li><strong>MSc</strong>, <a href="https://www.iiu.edu.pk/">IIU Islamabad</a> (2016–2018)</li>
       <li><strong>BSc</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2010–2014)</li>
