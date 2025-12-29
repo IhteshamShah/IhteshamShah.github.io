@@ -14,7 +14,7 @@ My research combines machine learning, sequential decision-making, and clinical 
       <img style="width:400px" src="../images/cooperative_Imitatoin_Learning.png">
   </td>
   <td style="border: none">
-      <b>Imitation Learning</b> Traditonal Imitation Learning (IL) approaches rely only on positive trajectories (i.e., treatments that concluded with positive responses of the patient). In contrast, negative trajectories (i.e., samples of non-responding treatments) are discarded, although these have valuable information content. We propose a Cooperative Imitation Learning (CIL) method that exploits information from both negative and positive trajectories to learn the optimal DTR. The proposed method reduces the chance of selecting any treatment which results in a negative outcome (negative response of the patient) during the medical examination. To validate our approach, we have considered a well-known DTR which is defined for the treatment of patients with alcohol addiction. Results show that our approach outperforms those that rely only on positive trajectories. 
+      <b>Imitation Learning:</b> Traditonal Imitation Learning (IL) approaches rely only on positive trajectories (i.e., treatments that concluded with positive responses of the patient). In contrast, negative trajectories (i.e., samples of non-responding treatments) are discarded, although these have valuable information content. We propose a Cooperative Imitation Learning (CIL) method that exploits information from both negative and positive trajectories to learn the optimal DTR. The proposed method reduces the chance of selecting any treatment which results in a negative outcome (negative response of the patient) during the medical examination. To validate our approach, we have considered a well-known DTR which is defined for the treatment of patients with alcohol addiction. Results show that our approach outperforms those that rely only on positive trajectories. 
   </td>
 </tr>
 <tr style="border: none;">
@@ -22,7 +22,7 @@ My research combines machine learning, sequential decision-making, and clinical 
       <img style="width:600px" src="../images/Explanability_graph.png">
   </td>
   <td style="border: none">
-  <b>Explainable And Responsible AI</b> Explainable AI (XAI) assists clinicians and researchers in understanding the rationale behind the predictions made by data-driven models which helps them to make informed decisions and trust the model's outputs. However, given the variety of explanation techniques, there is no universally applicable evaluation metric that can reliably assess the quality of all explanations. We addresses this gap by introducing a set of universal evaluation metrics designed to assess explanation performance across different techniques and contexts. We also inveitegate the other ways for explanability and working on safe sequential decision making. 
+  <b>Explainable And Responsible AI:</b> Explainable AI (XAI) assists clinicians and researchers in understanding the rationale behind the predictions made by data-driven models which helps them to make informed decisions and trust the model's outputs. However, given the variety of explanation techniques, there is no universally applicable evaluation metric that can reliably assess the quality of all explanations. We addresses this gap by introducing a set of universal evaluation metrics designed to assess explanation performance across different techniques and contexts. We also inveitegate the other ways for explanability and working on safe sequential decision making. 
   </td>
 </tr>
 <tr style="border: none;">
@@ -38,7 +38,7 @@ My research combines machine learning, sequential decision-making, and clinical 
       <img style="width:600px" src="../images/AMD_eye.png">
   </td>
   <td style="border: none">
-  <b>Medical Image Processing</b> We invertigate and analyse advance imaging techniques to extract the usefull information for better prediction prediction and decision making. In aged people, the central vision is affected by Aged-Related Macular Degeneration (AMD). In this research, we make safe, non-contact and cost-effective platform that can be used for the localization of the macula and monitoring system for dry AMD. 
+  <b>Medical Image Processing:</b> We invertigate and analyse advance imaging techniques to extract the usefull information for better prediction prediction and decision making. In aged people, the central vision is affected by Aged-Related Macular Degeneration (AMD). In this research, we make safe, non-contact and cost-effective platform that can be used for the localization of the macula and monitoring system for dry AMD. 
   </td>
   </tr>
 <tr style="border: none;">
