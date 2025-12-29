@@ -20,15 +20,15 @@ redirect_from:
       <li><strong>Junior Lecturer</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2015–2019)</li>
     </ul>
   </div>
-  
+
   <div style="flex:1;">
-    <ul style="padding-left:1.25rem; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
+    <ul style="padding-left:1.25rem; margin:0.25rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
       <li><strong>PhD</strong>, <a href="https://www.uniparthenope.it/">University of Naples</a> (2019–2023)</li>
       <li><strong>MSc</strong>, <a href="https://www.iiu.edu.pk/">IIU Islamabad</a> (2016–2018)</li>
       <li><strong>BSc</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2010–2014)</li>
     </ul>
 
-    <p style="margin-top:1rem;"><a href="https://ihteshamshah.info/research">Areas:</a> Interpretable AI, Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning</p>
+    <p style="margin-top:1rem;"><a href="https://ihteshamshah.github.io/research/">Areas:</a> Interpretable AI, Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning</p>
 
   </div>
 
