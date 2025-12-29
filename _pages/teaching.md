@@ -18,15 +18,15 @@ Graduate course
 Parthenope University Napoli, Italy\
 Graduate course
 
-[**Digital Image Processing)**](https://www.numl.edu.pk/programs/program/189), (EEDI-362) spring 2017, spring 2018\
+[**Digital Signal Processing**](https://www.numl.edu.pk/programs/program/189), (EEDS-361) Fall 2018, spring 2019\
 NUML University, Islamabad, Pakistan\
 Bachelor course
 
-[**Digital Signal Processing**](https://www.numl.edu.pk/programs/program/189), (EEDS-361) Fall 2020, Fall 2022\
+[**Digital Image Processing)**](https://www.numl.edu.pk/programs/program/189), (EEDI-362) spring 2017, Fall 2018\
 NUML University, Islamabad, Pakistan\
 Bachelor course
 
-[**Software Packages (MATLAB/ MAPLE/ MATHEMATICA)**](https://www.numl.edu.pk/programs/program/250), Fall 2018, Fall 2019\
+[**Software Packages (MATLAB/ MAPLE/ MATHEMATICA)**](https://www.numl.edu.pk/programs/program/250), (MTSO-209) Fall 2017, spring 2018\
 NUML University, Islamabad, Pakistan\
 Bachelor course
 
