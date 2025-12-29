@@ -4,14 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-We investigate how to transform the development of **human-centric AI with common sense** to ultimately support **social good** applications.
+We investigate how to advance **responsible**, **explainable**, and **human-centered AI** to support high-stakes task e.g. healthcare decision-making.
 
-We conduct fundamental research on commonsense AI and investigate its application to online content safety, informed by **empirical insights and interdisciplinary theories**. We mostly draw on theories from cognitive science, communication science, and linguistics, always looking to broaden our perspective. Our approach integrates four key pillars: theory, background knowledge, explainable decision-making, and theory-grounded benchmarking.
+My research combines machine learning, sequential decision-making, and clinical insight to design AI systems that are transparent, trustworthy, and aligned with both clinical practices and **patient preferences**. By integrating **explainability**, **preference-awareness**, and **clinical constraints**, my work aims to bridge the gap between state-of-the-art AI methods and real-world clinical impact.
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:400px" src="../images/entailment.png">
+      <img style="width:400px" src="../images/cooperative_Imitatoin_Learning.png">
   </td>
   <td style="border: none">
       <b>Commonsense reasoning:</b> Both commonsense psychology and naive physics are important topics for our lab. We perform fundamental research on situational awareness, narrative understanding, and video reasoning. We focus on building generalizable methods that provide a faithful rationale for their reasoning. We explore neuro-symbolic methods such as entailment trees, combining LLMs with deterministic engines, and reasoning with scene knowledge graphs. 
@@ -19,7 +19,7 @@ We conduct fundamental research on commonsense AI and investigate its applicatio
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/aa.png">
+      <img style="width:600px" src="../images/Explanability_graph.png">
   </td>
   <td style="border: none">
   <b>Multimodal analogy and abstraction:</b> We study analogy and abstraction in AI inspired by key cognitive generalization mechanisms of humans. We focus on narratives and lateral thinking puzzles, covering text and vision. We create benchmarks and develop neuro-symbolic methods to advance the state-of-the-art in abstraction and analogical reasoning. We develop methods that derive and leverage explicit representations to enable robust and interpretable learning from experience.
