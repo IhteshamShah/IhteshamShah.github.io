@@ -15,7 +15,7 @@ redirect_from:
     <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
       <li><strong>Postdoc</strong>, <a href="https://vu.nl/en/about-vu/more-about/artificial-intelligence-computer-science">Vrije Universiteit Amsterdam</a> (2023–present)</li>
       <li><strong>Faculty</strong>, <a href="https://lr.cs.vu.nl">Learning and Reasoning Group</a></li>
-      <li><strong>Researcher</strong>, <a href="https://www.icar.cnr.it/">Institute for HPC and networking (ICAR) CNR, Italy</a> (2022–2023)</li>
+      <li><strong>Researcher</strong>, <a href="https://www.icar.cnr.it/">Institute for HPC, CNR, Italy</a> (2022–2023)</li>
       <li><strong>Visiting Researcher</strong>, <a href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a> (2021–2022)</li>
       <li><strong>Junior Lecturer</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2015–2019)</li>
     </ul>
