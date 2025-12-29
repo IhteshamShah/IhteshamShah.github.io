@@ -19,7 +19,9 @@ redirect_from:
       <li><strong>Visiting Researcher</strong>, <a href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a> (2021–2022)</li>
       <li><strong>Junior Lecturer</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2015–2019)</li>
     </ul>
-
+  </div>
+  
+  <div style="flex:1;">
     </ul>
       <li><strong>PhD</strong>, <a href="https://www.uniparthenope.it/">University of Naples</a> (2019–2023)</li>
       <li><strong>MSc</strong>, <a href="https://www.iiu.edu.pk/">IIU Islamabad</a> (2016–2018)</li>
