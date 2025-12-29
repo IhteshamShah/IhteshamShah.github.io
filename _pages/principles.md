@@ -4,17 +4,67 @@ permalink: /principles/
 author_profile: true
 ---
 
+A short set of principles that guide my research, supervision, and collaboration. Click any card to read a brief note and apply the ideas in day-to-day work.
 
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:1rem; margin-top:1rem;">
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-users" aria-hidden="true"></i> Diversity</h3>
+		<p>We welcome different backgrounds, perspectives, and lived experiences — diversity powers better questions and solutions.</p>
+	</div>
 
-* **Diversity:** Having lived in three countries across two continents, I have developed a strong appreciation for cultural differences and actively embrace diversity in terms of demographics, background knowledge, interests, and perspectives.
-* **Cross-discplinarity:** Most standing AI challenges cannot be solved purely by engineering. I am working hard to build bridges with other disciplines, including software engineering, cognitive psychology, social science, and linguistics.
-* **Motivation and guidance:** I enjoy working with students and colleagues. My firm belief is that with the right guidance and dedication, people can stay motivated and make substantial contribution while enjoying their work. I meet with each of my student and project members every week, and we communicate on slack in the meantime as needed.
-* **Growth:** Growing at our job is important. I do my best to help each of my team members grow into a proud researcher with strong technical skills, robust conceptual understanding, and clarity toward applying the technology for good.
-* **Mistakes are good as long as we learn:** It is normal to have knowledge gaps, make mistakes, etc. I try to learn from my mistakes and improve next time. I expect my colleagues to do the same.
-* **Teamwork and collaboration:** Seeing science as a team sport, I have been actively seeking collaborations, resulting in effective co-supervision and co-organization with academics and industry partners.
-* **Deliberate attitude:** To have productive and meaningful working days, we need to be fully focused when we perform deep work. When we are not working, we should be equally determined to preserve the time and space for leisurely activities. 
-* **Minimizing disruptions:** The biggest challenge of productive and meaningful work are disruptions. I do my best to minimize disruptions both from and to me. I advise my team to do the same. 
-* **Time management:** I manage my time by setting and fulfilling goals, keeping track of my tasks and projects, and time blocking.
-* **Expectations:** The academic work has many implicit expectations, which lead to overhead, frustrations, and distrust. I do my best to write all expectations down in an evolving google doc and discuss them with my team.
-* **Meeting preparation:** I aim to come prepared for every meeting. It is respectful to my peers and makes the meetings more meaningful. I expect my students and collaborators to do the same.
-* **Curiosity:** I do my best to feed my intellectual curiosity. I attend seminars, read papers, discuss, etc. in both formal and informal settings. There are infinite worlds to discover. 
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-project-diagram" aria-hidden="true"></i> Cross-disciplinarity</h3>
+		<p>Hard AI problems need ideas from cognitive science, engineering, linguistics and social sciences — collaboration across fields is essential.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-chalkboard-teacher" aria-hidden="true"></i> Mentorship</h3>
+		<p>Regular guidance, clear expectations and supportive feedback help students and collaborators grow and stay motivated.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-seedling" aria-hidden="true"></i> Growth</h3>
+		<p>I prioritise skill development and conceptual clarity so team members can do meaningful, responsible work.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-lightbulb" aria-hidden="true"></i> Learning from mistakes</h3>
+		<p>Mistakes are opportunities — we iterate, document lessons learned and improve our processes.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-users" aria-hidden="true"></i> Teamwork</h3>
+		<p>Science is a team sport: open collaboration, clear roles and mutual respect enable impact.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-crosshairs" aria-hidden="true"></i> Deliberate focus</h3>
+		<p>Protect blocks of deep work and respect rest times — focus yields higher-quality results.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-bell-slash" aria-hidden="true"></i> Minimize disruptions</h3>
+		<p>Keep communication predictable: asynchronous updates, agreed meeting times and clear priorities.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-clock-o" aria-hidden="true"></i> Time management</h3>
+		<p>Set clear goals, time-block, and track progress to keep projects moving steadily forward.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-list-alt" aria-hidden="true"></i> Clear expectations</h3>
+		<p>Document expectations to reduce confusion, overhead and friction in collaborative work.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Meeting prep</h3>
+		<p>Come prepared — concise agendas and clear action points make meetings productive and respectful.</p>
+	</div>
+
+	<div style="padding:1rem; border-radius:8px; border:1px solid #e6e6e6; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+		<h3 style="margin-top:0"><i class="fa fa-search" aria-hidden="true"></i> Curiosity</h3>
+		<p>Stay curious: read, discuss and experiment — curiosity fuels new research directions.</p>
+	</div>
+
+</div>
