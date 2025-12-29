@@ -22,14 +22,14 @@ redirect_from:
   </div>
   
   <div style="flex:1;">
-    <ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
+    <ul style="padding-left:1.25rem; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem;">
       <li><strong>PhD</strong>, <a href="https://www.uniparthenope.it/">University of Naples</a> (2019–2023)</li>
       <li><strong>MSc</strong>, <a href="https://www.iiu.edu.pk/">IIU Islamabad</a> (2016–2018)</li>
       <li><strong>BSc</strong>, <a href="https://www.numl.edu.pk/">NUML University</a> (2010–2014)</li>
     </ul>
 
     <p style="margin-top:1rem;"><a href="https://ihteshamshah.info/research">Areas:</a> Interpretable AI, Responsible AI, Inverse Reinforcement Learning, XAI, Multimodal Learning</p>
-  
+
   </div>
 
   <div>
