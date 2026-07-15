@@ -35,7 +35,10 @@ redirect_from:
   <div>
   <h2>News</h2>
   <ul style="display:grid; gap:0.5rem; padding-left:1rem;">
-    <li>July 2026: Our paper "Addressing Incomplete Data in Survival and Quality of Life Prediction: a Pancreatic Cancer Case Study" won the **Best Paper Award** at <a href="https://aime26.aimedicine.info/)">AIME 2026</a> .</li>
+      <li> July 2026: Our paper
+      "<em>Addressing Incomplete Data in Survival and Quality of Life Prediction: A Pancreatic Cancer Case Study</em>"
+      won the <strong>Best Paper Award</strong> at
+      <a href="https://aime26.aimedicine.info/">AIME 2026</a>.
      <li>June 2026:  I will be presenting our recent work on "Addressing Incomplete Data in Survival and Quality of Life Prediction: a Pancreatic Cancer Case Study" at <a href="https://www.personalisedcareinoncology.nl/)">PersOn consortium meeting</a> in Utrecht, Netherlands .</li>
     <li>Feb 2026: For VU/UvA AI students: I am accepting thesis supervision students for Spring 2026; topics will be published on our group's Canvas page.</li>
     <li>I will be teaching <a href="https://research.vu.nl/en/courses/ai-in-health-5/">AI in Health</a> courses again in 2026.</li>
