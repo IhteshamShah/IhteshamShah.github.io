@@ -35,6 +35,7 @@ redirect_from:
   <div>
   <h2>News</h2>
   <ul style="display:grid; gap:0.5rem; padding-left:1rem;">
+    <li>Our paper "Addressing Incomplete Data in Survival and Quality of Life Prediction: a Pancreatic Cancer Case Study" won the **Best Paper Award** at AIME 2026.</li>
     <li>For VU/UvA AI students: I am accepting thesis supervision students for Spring 2026; topics will be published on our group's Canvas page.</li>
     <li>I will be teaching <a href="https://research.vu.nl/en/courses/ai-in-health-5/">AI in Health</a> courses again in 2026.</li>
     <li>Delivered a talk on "Interpreting Model-agnostic Black-box Explanation Techniques" at the <a href="https://www.ai-health.nl/upcoming-events/">AI in Healthcare seminar</a> at VU Amsterdam.</li>
